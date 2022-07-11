@@ -1,0 +1,7 @@
+<meta>
+<info name= "Painel Convite" author="CoNNs" version= "2.0"/>
+<min_mta_version server="1.5.7-9.20307" client="1.5.7-9.20307" />
+ 
+<script src="RSC_Server.lua" type="server" />
+
+</meta>
